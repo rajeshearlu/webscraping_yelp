@@ -1,0 +1,991 @@
+Category,Overallrating,Name,Delivery,NumberReviews,PriceRange
+Sushi Bars,4.0,Tataki,No,1199,$$
+Mediterranean,4.5,Lokma,Yes,159,$$
+Mexican,4.0,Tropisueño,No,4029,$$
+Chicken Wings,4.5,Hot Sauce and Panko,Yes,1014,$
+American (Traditional),4.0,Eats,No,1030,$$
+Thai,4.0,Blackwood,Yes,1376,$$
+Seafood,4.0,PPQ Dungeness Island,No,2874,$$
+Italian,4.0,Trattoria Contadina,No,1242,$$
+Burmese,4.0,B Star Bar,No,1768,$$
+Japanese,4.0,Sanraku,No,1520,$$
+Italian,4.5,Castagna,No,357,$$
+American (New),4.5,Benu,No,993,$$$$
+Sandwiches,5.0,Hotbird,No,34,$
+Coffee & Tea,5.0,Piccolo Petes Cafe,No,238,$
+American (New),4.0,Serpentine,No,1468,$$
+French,4.0,Quince,No,1399,$$$$
+Cocktail Bars,4.0,Horsefeather,No,200,$$
+Laotian,4.0,Lao Table,Yes,681,$$
+Vietnamese,4.5,DragonEats,No,155,$
+French,4.5,Chez Maman East,Yes,1952,$$
+Italian,4.0,Cotogna,No,1311,$$$
+Mediterranean,4.0,NoVY Restaurant,Yes,358,$$
+Seafood,3.0,Bubba Gump Shrimp,No,1656,$$
+Ramen,4.0,Iza Ramen Lower Haight,No,592,$$
+Diners,4.0,Art’s Cafe,No,1052,$
+Izakaya,4.5,Izakaya Sushi Ran,No,14,$$$
+Caribbean,4.0,Cha Cha Cha,No,3121,$$
+Portuguese,4.0,Uma Casa,No,219,$$$
+Bars,4.0,The Buena Vista,No,2346,$$
+Italian,4.0,Credo,Yes,799,$$
+American (New),4.0,Eureka Restaurant & Lounge,No,592,$$
+Tapas/Small Plates,4.0,barvale,No,199,$$
+American (Traditional),4.0,Spruce,No,1805,$$$$
+Seafood,4.0,La Mar Cebichería Peruana,No,3436,$$$
+Pizza,5.0,Square Pie Guys,No,27,$$
+American (New),4.0,Boulevard,No,2563,$$$$
+Dim Sum,4.0,Dumpling Time,No,1117,$$
+Greek,4.5,Kitchen Istanbul,No,430,$$
+Wine Bars,4.0,Amélie,No,1298,$$
+Middle Eastern,4.0,La Mediterranee,Yes,1423,$$
+Seafood,4.0,Swan Oyster Depot,No,2558,$$
+Italian,4.0,Beretta,No,3378,$$
+Spanish,4.0,Alegrias,No,738,$$
+Seafood,4.0,Woodhouse Fish Company,No,2090,$$
+Italian,4.0,Capo’s Chicago Pizza,Yes,708,$$
+German,4.5,Leopold’s,No,995,$$
+Taiwanese,4.0,HoDaLa,Yes,267,$$
+Korean,4.5,Saucy Asian,No,229,$$
+American (New),4.0,Firefly Restaurant,No,1421,$$$
+Ramen,4.0,Hinodeya Ramen Bar,No,765,$$
+Latin American,4.5,La Fusión,No,1077,$$
+Mexican,4.0,Nopalito,No,1766,$$
+Indian,4.0,ROOH,No,491,$$$
+Indian,4.0,DOSA on Fillmore,No,2830,$$$
+Scandinavian,4.0,Kantine,No,79,$$
+Latin American,4.0,El Techo,No,1590,$$
+Italian,4.0,Original Joe’s,No,1204,$$
+Cafes,4.5,Diamond Cafe,No,118,$$
+American (New),4.0,Barbarossa Lounge,No,350,$$
+Seafood,4.5,Anchor Oyster Bar,No,1403,$$$
+American (Traditional),4.5,Creator,No,114,$$
+Breakfast & Brunch,4.5,Morning Wood,N/A,3,$
+French,4.5,L’Ardoise Bistro,No,1201,$$$
+Ramen,4.0,Izakaya Sozai,No,1988,$$
+Sushi Bars,4.0,Akiko’s Restaurant,No,1763,$$
+Filipino,4.5,Tselogs,No,478,$
+French,4.5,Bistro Central Parc,No,907,$$$
+Italian,4.0,Rocco’s Café,No,896,$$
+Tea Rooms,4.0,Samovar Tea - Yerba Buena Gardens,Yes,2245,$$
+Seafood,4.5,Red Hill Station,No,362,$$
+American (New),4.0,Twenty Five Lusk,No,1353,$$$
+Moroccan,4.0,El Mansour,No,569,$$$
+Vietnamese,4.5,Khai,No,120,$$$$
+Italian,4.0,Bella Trattoria,No,1293,$$
+Mediterranean,4.5,Souvla,Yes,361,$$
+Chinese,4.0,House Of Pancakes,No,818,$
+Sushi Bars,4.5,Shizen Vegan Sushi Bar & Izakaya,No,1242,$$
+Thai,4.0,Kin Khao,No,1694,$$
+Filipino,4.5,Malasa,Yes,113,$$
+Burmese,4.0,Mandalay,No,2062,$$
+Chinese,4.0,Dumpling Kitchen,No,1330,$$
+Chinese,4.0,Mister Jiu’s,No,475,$$$$
+American (New),4.5,Stones Throw,No,860,$$$
+Grocery,4.5,Italian Homemade Company,Yes,1198,$$
+Mexican,4.0,Nopalito,No,1180,$$
+Dim Sum,4.0,Delicious Dim Sum,No,844,$
+Latin American,4.5,The Castro Republic,Yes,267,$$
+Breakfast & Brunch,4.0,Foreign Cinema,No,4560,$$$
+Italian,4.0,Zuni Café,No,2614,$$$
+Himalayan/Nepalese,4.5,Cuisine of Nepal,Yes,458,$$
+Japanese,4.0,Marugame Udon,No,1055,$$
+Italian,4.5,Seven Hills,No,922,$$$
+German,4.0,Suppenküche,No,3024,$$
+Mediterranean,4.0,Troya,No,481,$$
+Breakfast & Brunch,4.0,Mymy,No,1531,$$
+Seafood,4.5,Golden Crab House,No,41,$$
+Breakfast & Brunch,4.0,Griddle Fresh,No,921,$$
+American (New),4.5,Lazy Bear,No,511,$$$$
+Seafood,4.0,Dragon Beaux,No,1208,$$
+American (New),4.0,Cassava,No,786,$$
+Steakhouses,4.0,Lolinda,No,1777,$$$
+American (Traditional),4.0,1428 HAIGHT Patio Cafe & Crepery,Yes,319,$$
+French,4.5,Mathilde French Bistro,No,193,$$$
+Soul Food,4.5,Old Skool Cafe,No,506,$$
+Ramen,4.0,Izakaya Roku,No,408,$$
+Ramen,4.0,Ushi Taro,No,78,$$
+Cajun/Creole,4.0,Buttermilk Southern Kitchen,Yes,561,$$
+Italian,4.0,Barbacco,Yes,1539,$$
+Mexican,4.0,El Farolito,No,4559,$
+Gastropubs,4.5,Hogwash,No,945,$$
+Coffee & Tea,4.0,Mission Beach Cafe,No,2612,$$
+Burgers,4.5,Box Kitchen,No,725,$$
+Japanese,4.5,Shabu House,N/A,28,$$
+Breweries,3.5,Black Sands,Yes,262,$$
+German,4.5,Cafe Europa,No,383,$$
+Basque,4.0,Bask,Yes,564,$$
+French,4.0,Chez Marius,No,91,$$$
+Burgers,4.0,Hi-Way Burger & Fry,No,91,$$
+Cocktail Bars,4.0,The Snug,No,128,$$
+French,4.0,Cocotte,No,473,$$$
+Korean,4.0,HRD,Yes,2387,$$
+Breakfast & Brunch,4.5,Hollywood Cafe,Yes,1909,$$
+Japanese,4.5,OzaOza,No,84,$$$$
+American (New),4.0,Hillstone,No,2063,$$$
+American (Traditional),4.0,Wayfare Tavern,No,3672,$$$
+Chicken Shop,4.0,The Bird,No,1172,$
+Steakhouses,4.0,5A5 Steak Lounge,No,2044,$$$
+Bakeries,4.0,Good Mong Kok Bakery,No,2248,$
+Noodles,4.0,Chubby Noodle,No,577,$$
+Seafood,4.5,La Ciccia,No,1023,$$$
+Burmese,4.0,Burma Superstar,No,6390,$$
+Southern,4.0,Hops & Hominy,No,1959,$$
+Bars,4.0,Cockscomb,No,1065,$$$
+American (Traditional),4.0,House of Prime Rib,No,6648,$$$
+Breakfast & Brunch,4.0,Universal Cafe,No,1302,$$
+Greek,4.5,Kokkari Estiatorio,Yes,4257,$$$
+Diners,4.0,Breakfast at Tiffany’s,Yes,777,$$
+Comfort Food,4.0,Starbelly,No,1676,$$
+Japanese,4.5,Nara Restaurant & Sake Bar,No,828,$$
+Bakeries,4.0,Tartine Bakery & Cafe,No,7488,$$
+Sushi Bars,4.5,Kibatsu,N/A,50,$$
+Seafood,4.0,Thanh Long,No,2411,$$$
+Seafood,4.0,Skool,No,1596,$$
+Chinese,4.0,San Tung,No,6305,$$
+American (Traditional),4.0,The Dorian,No,435,$$
+Thai,4.5,What The Cluck SF,Yes,84,$$
+French,4.5,Revelry Bistro,No,177,$$$
+Gastropubs,4.5,Myriad Gastropub,Yes,520,$$
+Spanish,4.0,Coqueta,No,1841,$$$
+Pop-Up Restaurants,5.0,Anomaly,No,20,$$$
+Ramen,4.0,Mensho Tokyo,No,1772,$$
+American (New),4.0,Lark,No,241,$$
+Cafes,4.0,Stonemill Matcha,No,412,$$
+Southern,4.0,The Front Porch,Yes,2606,$$
+American (Traditional),4.0,Blue Plate,Yes,1352,$$$
+Hawaiian,4.5,Huli Huli Hawaiian Grill,No,244,$
+Steakhouses,4.0,Bobo’s,No,1970,$$$
+Cafes,4.5,Yo También Cantina,N/A,24,$
+Mexican,4.5,Tacorea,No,1286,$
+Caribbean,4.0,Palm House,Yes,675,$$
+Mediterranean,4.5,Tuba Authentic Turkish Restaurant,Yes,937,$$
+Tapas/Small Plates,4.0,State Bird Provisions,No,2526,$$$
+Pizza,4.0,Zero Zero,No,3086,$$
+American (New),4.5,Eight AM,No,1025,$$
+American (Traditional),4.0,Dottie’s True Blue Cafe,No,4172,$$
+Fondue,4.0,Fondue Cowboy,No,546,$$
+Soul Food,4.0,Brenda’s Meat & Three,Yes,871,$$
+Seafood,4.5,Sotto Mare Oysteria & Seafood,No,3296,$$
+Breakfast & Brunch,4.0,Plow,No,2343,$$
+American (New),4.5,Frances,No,1454,$$$
+American (New),4.0,Nopa,No,4852,$$$
+Southern,4.5,Rusty’s Southern,Yes,801,$$
+Tapas/Small Plates,4.0,Izakaya KOU,No,702,$$
+Breweries,4.0,Barrel Head Brewhouse,No,496,$$
+Seafood,4.5,Hog Island Oyster Co,No,5447,$$
+American (New),4.0,The Pink Elephant Alibi,No,994,$$
+Breakfast & Brunch,4.5,Wooden Spoon,No,160,$$
+American (Traditional),4.0,Sweet Maple,No,3150,$$
+American (New),4.5,Gary Danko,No,5257,$$$$
+Breakfast & Brunch,4.5,1608 Bistro,No,80,$$
+Breakfast & Brunch,4.0,Mama’s On Washington Square,No,3992,$$
+American (New),4.0,Straw,Yes,1694,$$
+Tapas/Small Plates,4.0,Loló,No,1945,$$
+Seafood,4.0,Scoma’s Restaurant,No,3315,$$$
+Coffee & Tea,4.0,Farm : Table,No,1637,$$
+Mexican,4.0,Padrecito,Yes,790,$$
+American (New),4.0,Marlowe,No,2564,$$
+British,4.5,The Codmother Fish and Chips,No,2758,$
+Ramen,4.5,Marufuku Ramen SF,No,1717,$$
+Asian Fusion,4.5,The House,No,4467,$$$
+American (New),4.0,Fable,No,418,$$
+Thai,4.0,Farmhouse Kitchen Thai Cuisine,Yes,1608,$$
+Indonesian,5.0,INDO,No,81,$$$
+Bars,4.5,Liholiho Yacht Club,No,1963,$$$
+Korean,4.5,Surisan,No,1073,$$
+American (Traditional),4.5,Mersea,No,334,$$
+Breakfast & Brunch,4.0,Zazie,No,4095,$$
+Breakfast & Brunch,4.0,Brenda’s French Soul Food,Yes,10064,$$
+Breakfast & Brunch,4.0,Kitchen Story,Yes,2766,$$
+Seafood,4.0,Fog Harbor Fish House,No,4820,$$
+Mexican,4.0,Don Pisto’s,No,1716,$$
+Desserts,4.5,The Game Parlour,No,138,$$
+Japanese,4.5,Goemon,No,99,$$
+Ramen,4.0,Nojo Ramen Tavern,No,608,$$
+Moroccan,4.0,Khamsa,No,142,$$
+Chinese,4.0,Hai Ky Noodles,No,858,$
+American (New),4.0,AVERY,No,50,$$$$
+Caribbean,4.5,Isla Vida,Yes,50,$$
+Cafes,4.5,Orson’s Belly,No,113,$
+Italian,4.5,Acquerello,No,1044,$$$$
+Persian/Iranian,4.0,Anar,Yes,398,$$
+Peruvian,4.0,Limón Rotisserie,No,3010,$$
+Bakeries,4.0,Craftsman and Wolves,No,1426,$$
+French,4.0,Petit Crenn,No,338,$$$$
+Breakfast & Brunch,4.0,Home Plate,No,931,$$
+Dim Sum,3.5,Harborview Restaurant & Bar,No,57,$$
+Italian,4.0,Poesia,Yes,727,$$$
+Breakfast & Brunch,4.0,Honey Honey Cafe and Crepery,Yes,2221,$$
+Sushi Bars,4.5,KUSAKABE,No,780,$$$$
+Thai,4.0,Basil Thai Restaurant & Bar,No,1438,$$
+Dim Sum,4.0,Dim Sum Club,No,336,$$
+Italian,4.0,Bacco,No,435,$$$
+American (Traditional),4.0,Chow,No,1932,$$
+Cafes,4.5,Manny’s,N/A,29,$$
+Middle Eastern,4.0,Michael Mina,No,1164,$$$$
+Korean,4.0,Manna,No,969,$$
+American (New),4.0,Rich Table,No,1070,$$$
+Asian Fusion,3.5,Crustacean,No,1406,$$$
+American (New),4.0,Prospect,No,1505,$$$
+Mexican,4.0,The Little Chihuahua,No,1411,$$
+Seafood,4.5,Betty Lou’s Seafood & Grill,No,528,$$
+Mexican,4.0,Flores,No,356,$$
+French,4.0,Monsieur Benjamin,No,838,$$$
+Breakfast & Brunch,4.0,Beachside Coffee Bar & Kitchen,No,768,$$
+Wine Bars,4.5,Bodega,No,186,$$
+Vietnamese,4.0,Pho Huynh Hiep 2 - Kevin’s Noodle House,No,1511,$
+Cambodian,4.0,Angkor Borei,Yes,501,$$
+Soul Food,4.0,Auntie April’s Chicken-n-Waffles,No,598,$$
+Seafood,4.0,Bar Crudo,No,1800,$$$
+Spanish,3.5,Thirsty Bear Brewing Company,No,1853,$$
+French,4.5,Atelier Crenn,No,649,$$$$
+Indian,4.0,DOSA on Valencia,Yes,2234,$$
+Sports Bars,4.0,Rumors,No,249,$$
+American (Traditional),4.0,BIX,No,1709,$$$
+Italian,4.5,The Italian Homemade Company,No,730,$$
+Asian Fusion,4.0,Chubby Noodle,Yes,428,$$
+Breakfast & Brunch,4.0,Chloe’s Cafe,No,942,$$
+Seafood,4.0,Luke’s Lobster SoMa,Yes,129,$$
+Hot Dogs,4.5,Rosamunde Sausage Grill - San Francisco,Yes,1581,$
+Sushi Bars,4.5,Omakase,No,372,$$$$
+Italian,3.5,Che Fico,No,282,$$$
+Tapas/Small Plates,4.0,Beso Bistronomia,No,370,$$
+Pizza,4.5,Pizzetta 211,No,1188,$$
+Seafood,3.5,Mission Rock Resort,Yes,815,$$
+American (New),4.5,Trestle,No,742,$$$
+Mexican,4.0,Velvet Cantina,No,1199,$$
+Singaporean,4.0,Lime Tree Southeast Asian Kitchen,No,1449,$
+Bakeries,4.5,Arizmendi Bakery,No,1823,$
+French,4.0,Le P’tit Laurent,No,725,$$
+German,4.0,Walzwerk,No,958,$$
+Himalayan/Nepalese,4.5,Dancing Yak,Yes,193,$$
+Vietnamese,4.0,Tín Vietnamese Cuisine,No,1144,$$
+American (New),4.0,Park Tavern,No,1488,$$$
+Bars,4.0,The Monk’s Kettle,Yes,2098,$$
+American (New),3.5,Outerlands,No,2150,$$
+Moroccan,4.0,Mourad Restaurant,No,863,$$$
+Ramen,4.0,Ichiraku Ramen,Yes,110,$$
+Seafood,4.0,Mission Street Oyster Bar & Seafood Restaurant,No,508,$$
+Seafood,3.5,Waterbar,No,2810,$$$
+Pizza,4.0,Pizzeria Delfina,No,1430,$$
+Japanese,4.0,Sushirrito,Yes,1422,$$
+American (New),4.0,Chambers,No,923,$$
+Caribbean,4.0,Kaya,No,128,$$
+Bowling,4.0,Mission Bowling Club,No,578,$$
+American (Traditional),4.0,SAM’s Diner,Yes,653,$$
+Breakfast & Brunch,4.5,Lapisara Eatery,No,339,$$
+Mexican,4.0,La Taqueria,No,3667,$
+Breakfast & Brunch,4.5,The New Spot On Polk,Yes,387,$$
+American (New),4.0,Causwells,No,640,$$
+Sushi Bars,4.5,Yakumi Freestyle Omakase,No,9,$$$$
+Sushi Bars,4.5,Tsubasa Sushi,No,330,$$$
+Lounges,4.0,Azucar Lounge,No,617,$$
+Bars,3.5,Hollow Cow,No,169,$$
+Modern European,4.0,Dolce Amore,Yes,427,$$
+Mediterranean,4.0,Mazzat,No,454,$$
+Italian,4.5,The Italian Homemade Company,No,16,$$
+Breakfast & Brunch,4.0,Pomelo,No,698,$$
+American (New),4.0,The Progress,No,745,$$$$
+Breakfast & Brunch,4.0,Pork Store Cafe,No,1315,$$
+Mexican,4.0,Nick’s Crispy Tacos,Yes,3183,$
+Sandwiches,4.0,Cafe Reverie,No,537,$$
+Tapas Bars,4.5,RM 212,No,316,$$
+French,4.0,Absinthe Brasserie & Bar,No,3165,$$$
+Asian Fusion,4.0,RAW Sugar Factory,Yes,336,$$
+Breakfast & Brunch,4.0,LaLe,Yes,358,$$
+Bakeries,4.5,Vive La Tarte,No,408,$$
+Bars,4.0,The Alembic,No,1656,$$
+Hot Pot,4.5,DNM Hot Pot,No,61,$$
+French,4.0,Bistro Aix,No,624,$$
+Korean,4.5,Barnzu,No,147,$$
+Soul Food,3.5,Little Skillet,Yes,1915,$$
+Comfort Food,4.0,Bergerac,No,279,$$
+American (New),4.0,Son’s Addition,No,179,$$$
+Cafes,4.0,Pearl 6101,No,125,$$
+Italian,4.5,Francisca’s,No,86,$$$
+British,4.5,Lovejoy’s Tea Room,No,1135,$$
+Chinese,4.0,Sam Wo Restaurant,Yes,879,$
+Burmese,4.5,Beyond Burma,No,27,$$
+Spanish,4.0,Bota Tapas & Paella Bar,No,189,$$$
+Mediterranean,4.0,Oren’s Hummus,No,218,$$
+Coffee & Tea,4.0,Jane on Fillmore,No,898,$$
+Wine Bars,4.0,District San Francisco,No,1107,$$
+American (Traditional),4.0,West of Pecos,No,878,$$
+Greek,4.0,Souvla,Yes,1147,$$
+Italian,4.0,Ragazza,No,621,$$
+American (Traditional),4.0,Tommy’s Joynt,Yes,2730,$
+Japanese,4.5,Sushi Hon,No,240,$$$$
+Asian Fusion,3.5,Tonga Room & Hurricane Bar,No,2486,$$$
+Pizza,4.5,Golden Boy Pizza,No,3132,$
+French,4.5,Chapeau!,No,2597,$$$
+French,4.5,La Folie,No,1423,$$$$
+Wine Bars,4.0,Fat Angel,No,805,$$
+American (Traditional),4.0,Just For You Cafe,No,1350,$$
+French,4.5,Bouche,No,716,$$$
+Italian,4.0,Magic Flute Ristorante,No,521,$$
+Seafood,4.0,Pier Market Seafood Restaurant,No,1521,$$
+French,4.0,Isa Restaurant,Yes,1950,$$$
+Asian Fusion,4.0,AsiaSF,No,1743,$$$
+Breakfast & Brunch,4.0,Friends with Benedicts Pop Up,No,151,$$
+Hot Pot,4.5,Boiling Hot Pot,No,732,$$
+Italian,4.0,Delfina,No,1991,$$$
+Coffee & Tea,4.5,6th and B,No,164,$$
+Dim Sum,4.0,Good Luck Dim Sum,No,1481,$
+Hawaiian,4.0,Pa’ina Lounge & Restaurant,Yes,490,$$
+American (New),4.0,Sons & Daughters,No,632,$$$$
+American (Traditional),4.0,Delancey Street Restaurant,No,1501,$$
+Italian,4.0,PRAIRIE,No,55,$$$
+Italian,4.5,Marcella’s Lasagneria,N/A,336,$$
+American (New),4.0,Maven,No,650,$$
+Chinese,4.5,Eight Tables by George Chen,No,68,$$$$
+Izakaya,4.0,Rintaro,No,484,$$$
+Italian,4.0,Lupa Trattoria,No,606,$$
+Italian,4.0,a Mano,No,608,$$
+Seafood,4.0,Farallon,No,1533,$$$$
+American (New),4.5,Birdsong,No,111,$$$$
+Cafes,5.0,Mauerpark,N/A,22,$
+Pizza,4.0,Tony’s Pizza Napoletana,Yes,4386,$$
+Latin American,4.0,Parada 22,Yes,1088,$$
+Chinese,3.5,R&G Lounge,No,4159,$$
+Czech,4.5,Paprika,Yes,364,$$
+Spanish,4.0,Bellota,No,509,$$$
+Italian,4.0,Emmy’s Spaghetti Shack,Yes,408,$$
+Korean,4.0,Han Il Kwan,No,1492,$$
+Steakhouses,4.0,Espetus Brazilian Steak House,No,3211,$$$
+Filipino,4.0,Pampanguena Cuisine,N/A,291,$$
+Hawaiian,4.5,Trailblazer Tavern,N/A,36,$$
+Pop-Up Restaurants,5.0,ChiliCali,No,15,$$
+Wine Bars,4.5,The Richmond,No,654,$$$
+Gluten-Free,4.0,Pica Pica Arepa Kitchen,Yes,1377,$$
+Indian,4.0,Mela Tandoori Kitchen,Yes,532,$$
+Ramen,4.0,Slurp Ramen,No,384,$$
+Delis,4.5,Deli Board,No,1188,$$
+American (Traditional),4.0,Mac Daddy,Yes,448,$$
+Pizza,4.5,Pink Onion,Yes,258,$$
+Mexican,4.0,El Burrito Express,No,680,$
+American (New),4.0,Hakkasan,No,1592,$$$
+Salvadoran,4.5,Manitas Cafe,No,77,$$
+Brazilian,3.5,Fogo de Chão Brazilian Steakhouse,No,689,$$$
+Vietnamese,3.5,Golden Star Vietnamese Restaurant,No,1182,$
+Barbeque,4.0,Kogi Gogi BBQ,No,264,$$
+Bakeries,4.5,Frena Bakery and Cafe,Yes,328,$
+Gastropubs,4.0,The Sycamore,Yes,699,$$
+American (Traditional),3.5,Stacks,No,1580,$$
+Korean,4.5,JIJIME,Yes,147,$$
+Japanese,4.0,Takoba SF,Yes,456,$$
+Middle Eastern,4.0,Taboun,No,217,$
+French,4.0,Jardiniere,No,1610,$$$$
+Sushi Bars,4.0,Kaiju Eats Ramen and Izakaya,No,654,$$
+Peruvian,3.5,Fresca,No,911,$$
+Cafes,4.0,Boba Guys,No,473,$
+Japanese,3.5,Udon Mugizo,Yes,622,$$
+Vietnamese,4.0,Kim Son Vietnamese Restaurant,No,664,$
+Themed Cafes,4.5,KitTea Cat Cafe,No,547,$$
+Cafes,4.5,Cafe Diem,No,11,$
+Barbeque,3.5,International Smoke,N/A,722,$$$
+Vietnamese,3.5,The Slanted Door,No,5412,$$$
+American (Traditional),4.5,Hopwater Distribution,No,656,$$
+Vietnamese,4.0,Perilla,Yes,1163,$$
+Korean,4.5,Go Go 7,Yes,101,$$
+Gluten-Free,4.5,Hot Spud,Yes,484,$
+Ramen,3.5,Ippudo San Francisco,No,610,$$
+Barbeque,4.0,CatHead’s BBQ,Yes,857,$$
+Sushi Bars,4.0,Sumo,No,88,$$
+Vietnamese,4.0,Yummy Yummy,Yes,1333,$$
+Sports Bars,4.0,The Boardroom,No,409,$
+Seafood,3.5,Franciscan Crab Restaurant,No,1607,$$$
+Mediterranean,4.0,Arabian Nights Restaurant,Yes,672,$$
+Nicaraguan,4.0,El Rinconcito Nicaraguense,No,29,$$
+Italian,4.5,Roma Antica,Yes,342,$$
+Soul Food,4.0,Hard Knox Cafe,No,2063,$$
+French,4.0,Baker Street Bistro,No,588,$$
+Wine Bars,4.0,Aquitaine,No,274,$$
+Sushi Bars,4.0,Ryoko’s,No,2705,$$
+Bars,4.0,The Brick Yard,Yes,582,$$
+Moroccan,4.0,Aicha Moroccan Cuisine,No,459,$$
+Italian,4.5,Albona Ristorante Istriano,No,660,$$$
+Vietnamese,4.5,DragonEats,No,334,$
+Coffee & Tea,4.5,Lou’s Cafe,Yes,1412,$
+Cocktail Bars,4.0,Trick Dog,No,735,$$
+Italian,4.0,Perbacco,No,1944,$$$
+Bakeries,4.0,Mission Pie,No,1708,$
+Seafood,4.5,Hook Fish,No,321,$$
+Bars,4.5,Coin-Op Game Room,No,434,$$
+Italian,4.5,Caffe Macaroni,No,514,$$
+Latin American,4.0,Alma Cocina,Yes,198,$$
+Scandinavian,4.0,Pläj Scandinavian Restaurant & Bar,No,626,$$$
+American (Traditional),4.0,Tempest,No,686,$
+Vietnamese,4.0,Dinosaurs,No,860,$
+Latin American,4.0,Piqueo’s,No,621,$$$
+Chinese,4.0,IPOT,No,789,$$
+Pizza,4.0,Pizzeria Delfina - San Francisco,No,2240,$$
+Italian,4.0,Vega,No,549,$$
+Burgers,4.5,Native Burger,No,161,$$
+Italian,4.0,Nob Hill Cafe,No,1203,$$
+Middle Eastern,5.0,Saha,No,6,$$
+Italian,4.0,Locanda,No,946,$$$
+Latin American,4.5,School Night,No,64,$$
+Gastropubs,4.0,Mikkeller Bar,No,1130,$$
+Cafeteria,4.0,The View Cafe,No,13,$
+Wine Bars,4.0,Blush!,No,291,$$
+Japanese Curry,4.0,Muracci’s Japanese Curry & Grill,No,1631,$$
+German,4.0,Biergarten,No,521,$$
+Mediterranean,4.0,Palmyra,Yes,805,$
+Coffee & Tea,4.5,Cafe de Casa,No,330,$$
+French,4.0,Cafe Claude,No,1921,$$$
+Dive Bars,3.5,The Ramp,No,1037,$$
+Wine Bars,4.0,The Barrel Room,No,264,$$
+Italian,4.0,54 Mint - Ristorante Italiano,No,1069,$$$
+Comfort Food,4.0,MAC’D,Yes,566,$$
+Korean,3.5,The Korean Kitchen,No,197,$$
+Japanese,4.5,Okkon Japanese Street Food,No,13,$$
+Mediterranean,4.0,Barcha,No,349,$$
+Spanish,4.0,Picaro,No,1428,$$
+American (New),4.0,Octavia,No,462,$$$
+American (New),4.5,3rd Cousin,No,201,$$$
+Thai,4.0,Marnee Thai,Yes,1570,$$
+Italian,3.5,SPQR,No,1887,$$$
+Afghan,4.5,Helmand Palace,Yes,770,$$
+Vietnamese,3.5,My Father’s Kitchen,No,417,$$
+American (New),4.0,Coi,No,747,$$$$
+Mexican,4.0,El Buen Comer,No,246,$$
+Vietnamese,4.0,Jasmine Garden,No,634,$$
+Coffee & Tea,4.5,The Richfield,No,139,$
+Delis,4.5,Molinari Delicatessen,Yes,1034,$$
+Cocktail Bars,4.5,Louie’s Gen-Gen Room,No,170,$$
+Breweries,3.5,Bartlett Hall,Yes,774,$$
+American (New),4.5,Frascati,No,1151,$$$
+Italian,3.5,The Stinking Rose,No,3716,$$
+Wraps,4.5,Dabba,Yes,67,$$$
+Italian,4.0,Fiore Caffè,Yes,316,$$
+Mexican,4.5,Californios,No,254,$$$$
+Mediterranean,4.0,Van Ness Cafe & Gyros,Yes,54,$$
+Comfort Food,4.0,MAC’D,Yes,80,$$
+Burgers,4.0,Super Duper Burgers,No,1212,$
+Tapas Bars,4.0,Halu,No,848,$$
+American (New),4.0,Saison,No,428,$$$$
+Salvadoran,4.5,Panchitas Pupuseria,No,10,$
+Breakfast & Brunch,5.0,La Cuisine Café,No,7,$
+Breakfast & Brunch,4.0,Bacon Bacon,Yes,392,$
+Dim Sum,3.5,MaMa Ji’s,No,690,$$
+Food Stands,3.5,Fisherman’s Wharf  Chowder and Crab Sidewalk Stands,No,391,$$
+Japanese,4.5,jū-ni,No,236,$$$$
+Pubs,4.0,The Pig & Whistle,No,443,$$
+Mexican,3.5,Cala,No,367,$$$
+Pizza,4.5,Mozzeria,Yes,679,$$
+Gastropubs,3.5,The Tipsy Pig,No,1486,$$
+Seafood,4.0,Pacific Cafe,No,708,$$
+Diners,4.0,Eddie’s Cafe,No,596,$
+American (New),3.5,Fog City,No,664,$$
+Steakhouses,4.0,Harris’ Restaurant,No,1747,$$$$
+Japanese,4.5,Akira Japanese Restaurant,No,280,$$
+American (New),4.0,The Rotunda,No,1517,$$$
+Italian,4.0,Uva Enoteca,No,894,$$
+Mexican,4.5,Casa Barajas,Yes,21,$
+Asian Fusion,4.0,Grill Spot,Yes,138,$$
+Chinese,4.0,People’s Bistro,Yes,124,$
+Cocktail Bars,4.0,Rooftop 25,N/A,81,$$
+Vietnamese,4.0,Cafe Bunn Mi,No,1141,$
+Burgers,4.0,Roam Artisan Burgers,No,1089,$$
+Mexican,4.5,Garaje,No,1426,$$
+Sandwiches,5.0,Limoncello,Yes,591,$$
+Turkish,5.0,Istanbul Modern SF,No,79,$$$
+American (New),4.0,The Cavalier,No,952,$$$
+Pizza,4.5,Little Star Pizza,No,2786,$$
+Vietnamese,4.5,Saigon Sandwich,No,3096,$
+Seafood,3.5,Crab House at Pier 39,No,2073,$$$
+Italian,4.5,InoVino,No,124,$$
+Breweries,3.5,Social Kitchen & Brewery,No,907,$$
+Diners,3.5,Orphan Andy’s,No,874,$$
+Patisserie/Cake Shop,4.5,Thorough Bread & Pastry,No,796,$
+Vegan,4.0,Gracias Madre,Yes,2962,$$
+Ramen,5.0,Noodle in a Haystack,No,20,$$
+Bakeries,4.5,"La Boulangerie de San Francisco, Pine",Yes,727,$
+Sandwiches,4.5,Wooly Pig,No,609,$
+American (New),4.0,Hillside Supper Club,No,344,$$
+Creperies,4.5,Crepes A Go Go,No,559,$
+Latin American,4.0,Destino,No,1166,$$
+Ethiopian,4.5,Oasis Cafe,No,210,$$
+Breakfast & Brunch,4.0,American Grilled Cheese Kitchen,Yes,1455,$$
+Ramen,4.0,Orenchi Beyond,No,550,$$
+Italian,3.5,Flour + Water,No,2175,$$$
+Italian,4.0,Barzotto,Yes,448,$$
+Seafood,4.0,Tadich Grill,Yes,2218,$$$
+Mini Golf,4.5,Urban Putt,No,1226,$$
+American (New),4.0,Urban Tavern,No,188,$$
+Sports Clubs,4.0,SPIN San Francisco,No,230,$$
+Bars,4.0,Bon Voyage,N/A,43,$$
+Gastropubs,4.5,Trademark & Copyright,No,171,$$
+Bakeries,4.0,Boudin Bakery & Cafe,No,3035,$$
+Italian,4.5,Dispensa Italian Charcoal Kitchen,No,64,$$$
+Creperies,4.0,Crepevine Restaurant,No,1501,$$
+Cajun/Creole,4.0,Queen’s Louisiana Po-Boy Cafe,No,545,$$
+Vietnamese,4.5,Ly’s Vietnamese Cuisine,No,370,$$
+Burmese,4.0,Burma Love,Yes,952,$$
+Do-It-Yourself Food,4.5,Yummy Dumpling,No,93,$
+Seafood,5.0,Ichido,No,103,$$$
+Dim Sum,3.5,Yank Sing,No,2427,$$$
+Burgers,4.0,Super Duper Burgers,No,2592,$$
+Bars,4.5,PianoFight,No,175,$$
+Ramen,4.0,Iza Ramen SOMA,Yes,350,$$
+Cafes,4.0,Tastebuds,No,59,$$
+Wine Bars,4.5,Birba,Yes,95,$$
+Italian,4.0,Spiazzo Ristorante,No,607,$$
+Vietnamese,4.0,Laksa,Yes,241,$$
+Sushi Bars,4.5,Ijji Sushi,No,162,$$$$
+Thai,4.5,Ben Thai Cafe,No,373,$$
+Vietnamese,3.5,Pho 335,No,32,$
+Burgers,4.0,Pearl’s Deluxe Burgers,No,2078,$$
+Japanese,4.5,Sake Bomb,No,35,$$
+Sushi Bars,4.5,An Japanese Restaurant,No,119,$$$$
+Indian,4.0,August 1 Five,Yes,595,$$
+Dim Sum,3.5,Hong Kong Lounge II,No,890,$$
+Chinese,4.0,Orchids Cafe,No,91,$$
+Delis,4.5,Stoner’s,No,65,$$
+Indian,4.5,Keeva Indian Kitchen,Yes,364,$$
+Seafood,3.0,Waterfront Restaurant,Yes,1088,$$$
+Gastropubs,4.5,Fermentation Lab,No,186,$$
+Japanese,4.0,Shabu House,No,270,$$
+Coffee & Tea,4.5,Cafe St. Jorge,No,399,$$
+Cocktail Bars,4.0,Lord George,No,236,$$
+Salad,4.0,Blue Barn Gourmet,No,466,$$
+Argentine,4.5,Tanguito,No,563,$
+Izakaya,4.0,Izakaya Yoki,No,100,$$
+Japanese,4.5,"Bon, Nene",No,150,$$
+Cafes,4.5,Ro Cafe,Yes,111,$
+Vietnamese,4.0,Castro Tarts,No,266,$
+Japanese,4.0,Sakesan Sushi & Bistro,Yes,984,$$
+Mongolian,4.0,Little Sheep Mongolian Hot Pot,No,484,$$
+Mexican,4.0,Tacorgasmico,Yes,212,$$
+Belgian,4.0,La Trappe,No,817,$$
+American (New),4.0,Mr Pollo,No,553,$$
+Vietnamese,3.5,OTD,No,656,$$
+American (Traditional),4.0,Boogaloos,No,1036,$$
+Pubs,3.5,Schroeder’s,Yes,427,$$
+Mexican,4.0,Papito Hayes,No,500,$$
+American (New),4.0,Gardenias,No,108,$$$
+Breakfast & Brunch,4.0,Friends With Benedicts @ Chief Sullivans,No,99,$$
+Thai,4.0,Mangrove Kitchen,Yes,109,$$
+American (Traditional),4.0,Stuffed,No,217,$$
+Sandwiches,4.5,Roli Roti Gourmet Rotisserie,No,1384,$
+Seafood,4.0,Alamo Square Seafood Grill,No,612,$$
+Turkish,4.0,Pera,No,557,$$
+American (New),3.5,As Quoted,Yes,187,$$
+Coffee & Tea,4.0,Coffee Bar,No,1069,$
+Sushi Bars,4.0,Eiji,No,1049,$$
+Vegan,4.5,Vegan-n-Kabob,Yes,30,$$
+Brasseries,3.5,Bluestem Brasserie,No,1584,$$$
+Barbeque,4.0,Jang Soo BBQ,No,502,$$
+Pizza,4.5,Baonecci Ristorante,No,919,$$
+Coffee & Tea,4.0,Bluestone Lane,No,207,$$
+Thai,4.0,Rooster & Rice,Yes,323,$$
+Sushi Bars,4.0,Sushi Bistro,No,1507,$$
+Breakfast & Brunch,3.5,Top Of The Mark,No,1278,$$$
+American (New),4.0,The Saratoga,No,248,$$$
+Seafood,4.0,Woodhouse Fish,No,1591,$$
+Mediterranean,4.5,Fayala,Yes,221,$
+Indian,4.0,Om Indian Cuisine,Yes,251,$$
+American (New),4.5,Sorrel,No,125,$$$
+Italian,4.0,Vixi,No,172,$$
+Szechuan,3.5,Chili House SF,Yes,514,$$
+Ramen,4.0,Coco’s Ramen,No,414,$$
+Italian,3.5,Cioppino’s,No,1466,$$
+Korean,4.0,The Crew,No,376,$$
+Steakhouses,3.5,Osso Steakhouse,No,673,$$$$
+American (Traditional),3.5,Finn Town Tavern,Yes,337,$$
+Breweries,3.0,The Beach Chalet Brewery & Restaurant,No,2543,$$
+Vietnamese,4.0,Cordon Bleu,No,1016,$
+Caribbean,4.0,Peaches Patties Jamaican Kitchen,Yes,35,$$
+Japanese,4.5,Doma,No,76,$$$$
+Korean,4.0,Seokyo,Yes,80,$$
+Malaysian,4.0,Azalina’s,Yes,269,$$
+Japanese,4.0,Udon Underground,N/A,27,$$
+Falafel,4.5,The Flying Falafel,Yes,813,$
+French,4.0,Chez Maman West,Yes,994,$$
+Diners,3.5,Louis’,No,564,$$
+Breakfast & Brunch,4.0,New Taraval Cafe,No,453,$
+Sandwiches,4.5,Turner’s Kitchen,No,280,$
+Gluten-Free,4.5,Kitava,Yes,229,$$
+Bars,4.5,Hotel San Francisco,No,67,$$
+Ramen,4.0,RakiRaki Ramen & Tsukemen,No,71,$$
+Italian,4.0,È Tutto Qua,No,1987,$$
+Thai,4.0,Sweet Lime Thai Cuisine,Yes,441,$$
+Diners,4.0,Mission’s Kitchen,No,144,$
+Thai,3.5,Osha Thai,No,2227,$$
+Chinese,3.5,M Y China,Yes,1496,$$
+Sushi Bars,4.0,Okane,Yes,287,$$
+Pizza,4.5,Montesacro Pinseria-Enoteca,No,529,$$
+American (New),4.0,Homage,Yes,236,$$
+Cafes,4.0,B on the Go,No,163,$$
+Cuban,4.0,El Nuevo Frutilandia,No,343,$$
+Indian,3.5,Besharam,No,82,$$
+Vietnamese,4.0,Tú Lan,No,662,$
+American (New),4.0,Whitechapel SF,No,398,$$
+American (New),4.0,Commonwealth,No,1011,$$$
+Cantonese,4.0,Kam Po Kitchen,No,417,$
+French,4.0,Cafe Jacqueline,No,618,$$$
+Cafes,4.5,Cool Cravings,Yes,104,$
+Mediterranean,4.5,Sababa,No,279,$$
+American (New),4.5,The Morris,No,195,$$$
+Sushi Bars,4.5,Saru Sushi Bar,No,775,$$$
+American (New),4.0,1760,No,665,$$$
+Mediterranean,4.0,Terzo,No,596,$$$
+Peruvian,4.0,Mi Lindo Peru,No,702,$$
+Afghan,4.5,De Afghanan Kabob House,Yes,497,$$
+Japanese,5.0,The Shota,No,14,$$
+American (Traditional),3.5,Sunset Reservoir Brewing Company,No,558,$$
+Vietnamese,4.0,Turtle Tower,No,634,$
+American (New),3.5,Sutro’s at The Cliff House,No,1299,$$$
+Korean,3.5,Toyose,No,1463,$$
+Italian,4.5,Osteria Bella,Yes,45,$$
+Italian,4.0,Delarosa,No,1393,$$
+Japanese Curry,4.0,Volcano,No,1052,$
+Italian,4.0,Mescolanza,Yes,128,$$
+Hot Pot,4.5,Nabe,No,154,$$
+Gastropubs,4.0,Upcider,No,564,$$
+Mexican,4.0,Street Taco,No,524,$
+Wine Bars,4.5,High Treason,No,118,$$
+Chinese,4.0,Hunan Home’s Restaurant,No,1922,$$
+Sandwiches,4.0,Naked Lunch,No,596,$$
+American (New),4.0,AL’s Place,No,653,$$$
+Thai,4.0,Saap Ver Authentic Thai Cuisine,No,351,$$
+Chinese,4.0,Dong Bei Mama,No,339,$$
+Lounges,4.0,The Big 4,No,615,$$$
+American (New),3.5,Sessions at the Presidio,No,429,$$
+Vietnamese,4.0,Le Soleil,Yes,494,$$
+Hot Pot,4.0,My Pot,No,91,$$
+Bakeries,3.5,Tartine Manufactory,No,910,$$
+Tea Rooms,5.0,Elixart Herbal Lounge,N/A,6,$
+Filipino,4.0,Superstar Restaurant,No,389,$
+Mexican,4.0,Gallardos Mexican Restaurant,No,412,$
+Korean,4.0,Aria Korean Tapas,Yes,507,$
+Sandwiches,4.0,Blue Barn Gourmet,No,835,$$
+Chinese,4.0,Kung Food,Yes,425,$
+Italian,4.0,Tratto,No,391,$$
+Steakhouses,4.0,Alexander’s Steakhouse,No,1598,$$$$
+Bakeries,4.0,Jane The Bakery,No,195,$$
+Japanese,4.0,KAIYŌ,No,89,$$
+Cocktail Bars,4.5,Fifth Arrow,No,47,$$
+Latin American,4.5,Pico Latin Street Food,N/A,21,$$
+Filipino,4.0,Señor Sisig,No,1440,$
+Wine Bars,4.5,Indian Paradox,No,137,$$
+Italian,4.5,AltoVino,No,44,$$$
+Japanese,4.0,Shabu Club,No,627,$$
+Italian,4.0,Piccino,No,1330,$$
+Asian Fusion,4.5,The Spice Jar,No,303,$$
+American (New),4.0,Per Diem,No,693,$$
+American (New),4.0,Olea,No,892,$$
+Wine Bars,4.0,The Social Study,No,424,$$
+Cocktail Bars,4.0,Trou Normand,No,543,$$$
+Russian,4.5,Pushkin,Yes,143,$
+Mediterranean,4.0,Truly Mediterranean,Yes,1148,$
+Barbeque,4.0,No.1 SF BBQ,No,55,$$
+Noodles,4.0,Chong Qing Xiao Mian,No,565,$$
+Italian,4.0,Fiorella,Yes,344,$$
+Thai,4.0,Me & Tasty,Yes,228,$$
+Bars,3.5,Teeth SF,No,961,$$
+Italian,4.0,Sociale,No,650,$$$
+Middle Eastern,4.0,Old Jerusalem Restaurant,Yes,996,$$
+Mexican,4.5,La Palma Mexicatessen,No,587,$
+Steakhouses,4.0,Brazen Head,No,655,$$
+Breweries,3.5,Magnolia Haight,No,1747,$$
+Ethiopian,4.5,Tadu Ethiopian Kitchen,Yes,595,$$
+Mediterranean,4.0,Oasis Grill,Yes,1190,$
+Spanish,4.0,Canela Bistro & Wine Bar,Yes,582,$$
+Italian,3.5,Americano,No,1017,$$
+Peruvian,4.0,Mochica,Yes,387,$$
+French,3.5,Garçon,No,800,$$$
+Steakhouses,4.0,Ruth’s Chris Steak House,No,1977,$$$
+Mexican,3.5,Tacolicious,N/A,1309,$$
+American (New),3.5,The Riddler,No,126,$$$
+Wine Bars,3.5,Sparrow Bar and Kitchen,Yes,393,$$
+Chinese,3.5,China Live,Yes,833,$$
+Chinese,4.0,Yuanbao Jiaozi,No,147,$
+Italian,4.0,Caffe Sport,Yes,658,$$
+Peruvian,4.0,La Fina Estampa,No,221,$$
+Italian,4.0,Capannina,No,793,$$$
+Burgers,4.0,WesBurger ‘N’ More,No,453,$$
+Japanese,4.0,Shabu House,No,473,$$
+Sushi Bars,4.0,Tamashisoul Sushi Bar,No,342,$$
+American (New),4.0,Corridor Restaurant,No,291,$$
+Chinese,3.5,Tēo Restaurant & Bar,Yes,258,$$
+South African,4.0,Amawele’s South African Kitchen,No,209,$
+German,3.5,Radhaus,No,71,$$
+Cuban,4.0,Media Noche,Yes,274,$$
+Taiwanese,4.0,Hanlin Tea Restaurant,Yes,417,$$
+Cheese Shops,4.0,Mission Cheese,No,533,$$
+American (New),4.5,20 Spot,No,229,$$
+Chinese,4.0,Wok Shop Cafe,Yes,554,$
+Chinese,4.0,Elaine’s Kitchen,Yes,336,$
+American (Traditional),3.5,Perry’s,No,710,$$
+Himalayan/Nepalese,4.0,Bini’s Kitchen,No,171,$
+American (Traditional),4.0,Buster’s Cheesesteak,Yes,758,$
+American (New),4.0,Nightbird,No,120,$$$$
+Thai,4.0,House of Thai,Yes,1248,$$
+Middle Eastern,4.5,Jannah,No,369,$$
+Sports Bars,4.0,San Francisco Athletic Club,Yes,213,$$
+Seafood,4.5,Ayala Restaurant,No,7,$$
+Korean,4.0,Jin Mi Korean Cuisine,N/A,413,$$
+Japanese,4.5,Hashiri,No,87,$$$$
+Halal,4.0,Eden Silk Road Cuisine,Yes,146,$$
+Barbeque,3.5,Southpaw BBQ,Yes,562,$$
+Portuguese,3.5,Grubstake,Yes,1058,$$
+Indian,4.0,Amber India,Yes,1970,$$$
+Asian Fusion,4.0,pomelo on Judah,No,424,$$
+American (Traditional),4.5,Eat Americana,Yes,216,$$
+Seafood,3.5,Pier 23 Cafe,No,1598,$$
+Indian,4.0,Aslam’s Rasoi,Yes,883,$$
+Pizza,4.5,Piccolo Forno,No,440,$$
+Bubble Tea,4.5,Urban Ritual,Yes,254,$
+Steakhouses,4.0,Roka Akor - San Francisco,No,1119,$$$$
+Ramen,3.5,Ramen Yamadaya,No,1237,$$
+Soul Food,3.5,Hard Knox Cafe,Yes,1628,$$
+Dim Sum,4.0,Begoni Bistro,No,503,$$
+Dim Sum,3.5,Great Eastern Restaurant,No,1862,$$
+Indian,4.0,Holy Kitchen,Yes,231,$$
+American (New),4.0,Maybeck’s,No,262,$$$
+Mexican,4.0,Tacos Club,No,219,$
+Sushi Bars,4.0,Elephant Sushi,No,705,$$
+Cocktail Bars,4.0,ABV,No,545,$$
+Seafood,3.5,Chowders,No,753,$
+Thai,4.0,Bussaba,Yes,47,$$
+Italian,4.0,Mangia Tutti Ristorante,No,382,$$
+Dim Sum,3.5,Yank Sing,No,1436,$$
+Thai,4.0,Pagan Restaurant,No,503,$$
+Taiwanese,4.0,Tasty Pot,No,372,$$
+Hot Pot,4.0,Fondue Chinoise,No,35,$$
+Latin American,4.0,El Paisa Restaurante-Jenny & Jesse,No,60,$
+Japanese,3.5,Kui Shin Bo,No,658,$$
+Pizza,5.0,Gusto Pinsa Romana,N/A,11,$$
+American (New),3.5,The Brixton,No,796,$$
+Wine Bars,4.5,La Marsa,Yes,176,$$
+Tapas/Small Plates,4.0,15 Romolo,No,1030,$$
+Cambodian,4.5,Braised + Bread,Yes,49,$$
+Japanese,4.0,Yo Yo’s,No,511,$
+Salvadoran,4.0,Panchita’s Restaurant No 2,No,632,$
+Barbeque,4.5,Native Sons BBQ,No,32,$$
+American (New),4.0,Garibaldi’s,No,522,$$$
+Dim Sum,4.0,Dol Ho,No,344,$
+Creperies,4.0,The Crepe House,No,657,$$
+Latin American,4.0,Gilberth’s Latin Fusion Restaurant,Yes,306,$$
+Mexican,3.5,Tacolicious,Yes,1537,$$
+Breakfast & Brunch,4.0,Curbside Cafe,No,677,$$
+Salad,4.0,SOMA Eats,Yes,435,$$
+American (New),4.0,Aracely Cafe,No,203,$$
+Breakfast & Brunch,4.0,Toasty,Yes,100,$$
+Mexican,4.0,Tacko,No,688,$$
+Dim Sum,4.5,Dim Sum Bistro,No,55,$
+Pizza,4.0,Delarosa,No,946,$$
+Thai,4.0,One Waan,Yes,151,$$
+Asian Fusion,4.0,E&O Kitchen and Bar,No,910,$$
+Vietnamese,4.0,Pho Tan Hoa,No,595,$
+Bakeries,4.0,Frog Hollow Farm-To-Table Cafe,No,424,$$
+Sandwiches,4.0,Opa,Yes,204,$
+Mediterranean,4.0,Sultan’s Kebab,Yes,51,$$
+Japanese,4.5,Nara,No,108,$$
+Italian,4.5,Il Pollaio,No,365,$$
+Japanese,4.0,Pabu,No,811,$$$
+American (Traditional),3.5,Town’s End Restaurant & Bakery,Yes,748,$$
+Chinese,4.5,New Fortune Restaurant,No,24,$
+Salvadoran,4.0,Balompie Cafe,No,621,$
+Bakeries,4.0,Cinderella Bakery & Cafe,Yes,855,$
+Russian,4.0,Red Tavern,No,288,$$
+Vietnamese,3.5,Turtle Tower,No,606,$
+Italian,4.0,Manzoni,No,218,$$
+French,3.5,Café de la Presse,No,1510,$$
+American (New),4.0,The Board,No,46,$$
+Mexican,4.0,Pancho Villa Taqueria,Yes,2393,$
+Coffee & Tea,4.5,Scullery,Yes,160,$
+Asian Fusion,4.0,1601 Bar & Kitchen,No,245,$$$
+Vietnamese,5.0,Ty Pho,N/A,6,$
+Burmese,4.5,Golden Burma,Yes,98,$$
+Burgers,4.5,Bandit,Yes,273,$$
+Thai,4.0,Siam Lotus Thai Cuisine,No,413,$$
+Seafood,4.0,Pacific Catch,Yes,1531,$$
+Soup,4.0,Peasant Pies Noe Valley,Yes,284,$
+Ethiopian,4.5,Tadu Ethiopian Kitchen,No,145,$$
+Szechuan,4.5,Village House,Yes,175,$
+American (New),4.0,Nico,No,248,$$$
+Sushi Bars,4.0,Ebisu,No,1699,$$
+Hong Kong Style Cafe,3.5,Venus Cafe,Yes,59,$$
+Bars,4.0,Leo’s Oyster Bar,No,299,$$$
+French,4.0,Fringale,No,1050,$$$
+Pizza,4.0,Gialina Pizzeria,No,1083,$$
+Fast Food,4.0,In-N-Out Burger,No,1713,$
+Thai,4.0,Lers Ros,Yes,2095,$$
+Latin American,3.5,Fresca,No,243,$$
+Sushi Bars,4.0,Kingza,No,139,$$$$
+Hot Dogs,4.5,On Dog Dog,No,42,$
+Coffee & Tea,4.0,Bean Bag Cafe,No,824,$
+Japanese,4.5,Wako Japanese Restaurant,No,480,$$$$
+Bars,4.0,Parkside Tavern,No,522,$$
+Indian,4.0,North India Restaurant,Yes,1290,$$
+Korean,4.0,Stone Bowl Plus,Yes,140,$$
+Hot Pot,4.0,Nabe,No,485,$$
+Szechuan,4.5,Szechuan Cuisine,Yes,223,$$
+Conveyor Belt Sushi,4.0,Warakubune Sushi,No,558,$$
+Coffee & Tea,4.0,The Velo Rouge Cafe,Yes,685,$
+Himalayan/Nepalese,4.0,Little Nepal,Yes,432,$$
+Coffee & Tea,4.0,Morning Due Cafe,Yes,460,$$
+Hot Pot,4.5,The Place Hot Pot & Grill,N/A,12,$$
+Teppanyaki,4.0,Super Pan,Yes,310,$$
+Indonesian,3.5,Borobudur Restaurant,No,870,$$
+Wine Bars,4.5,Howells,No,29,$$
+Bars,4.0,Fly Bar,No,737,$$
+American (New),4.0,Aster,No,369,$$$
+Middle Eastern,4.0,Bursa,No,735,$$
+Ramen,4.0,Fumi Japanese Curry & Ramen,No,282,$$
+Bars,4.0,Curio,N/A,52,$$
+Mexican,4.0,El Rancho Grande,No,314,$
+Mediterranean,4.0,La Mediterranee,Yes,555,$$
+Beer Bar,4.0,Almanac Taproom,Yes,219,$$
+American (New),3.5,Dirty Habit,No,540,$$
+Coffee & Tea,5.0,Folklores Coffee Traders,No,84,$
+Desserts,4.0,Lovessy Asian Fusion & Souffles Bistro,No,70,$$
+Ramen,4.0,Ramenwell,No,36,$$
+Chinese,3.5,Z & Y Restaurant,No,1439,$$
+Dim Sum,3.5,Lai Hong Lounge,No,751,$$
+Cocktail Bars,4.0,Violet’s,No,87,$$
+Sushi Bars,4.5,Elephant Sushi,No,233,$$
+Mexican,4.0,El Castillito,No,801,$
+Wine Bars,4.5,Noeteca Wine Bar,Yes,442,$$
+Cocktail Bars,4.0,Aura Mixology and  chow,N/A,18,$$
+Vietnamese,4.0,Miss SaiGon,Yes,990,$$
+Basque,4.0,Piperade,No,845,$$$
+Sports Bars,4.5,After Hours,Yes,66,$$
+Cocktail Bars,3.5,Rambler,No,388,$$
+Vietnamese,4.0,Pho 2000,No,692,$
+Japanese,4.0,KoJa Kitchen,No,557,$$
+Italian,4.0,La Briciola,No,869,$$
+Hot Pot,4.0,Fiery Hot Pot Buffet,No,250,$$
+Italian,4.0,Pane E Vino,No,383,$$
+Breakfast & Brunch,5.0,Diane’s Bloody Mary,No,55,$$
+Barbeque,3.5,4505 Burgers & BBQ,No,1402,$$
+Italian,4.0,La Traviata,Yes,559,$$
+Italian,3.5,North Beach Restaurant,No,765,$$$
+Mexican,3.0,Rosa Mexicano,Yes,644,$$
+Diners,4.0,New Village Cafe,Yes,433,$
+Italian,4.5,Il Casaro Pizzeria & Mozzarella Bar,Yes,933,$$
+Mediterranean,4.0,Zaytoon Mediterranean,Yes,52,$$
+Japanese,4.5,Keiko à Nob Hill,No,386,$$$$
+Asian Fusion,4.0,Foxsister,Yes,193,$$
+Malaysian,4.0,Lime Tree Southeast Asian Kitchen,Yes,286,$$
+Pizza,4.0,Little Star Pizza,Yes,1965,$$
+Korean,3.5,Arang Restaurant,No,589,$$
+Mexican,4.0,San Jalisco,No,716,$$
+Ramen,3.5,Waraku,No,790,$$
+Vietnamese,3.5,Mai’s Vietnamese Restaurant,No,296,$
+Spanish,3.5,The Commissary,No,331,$$$
+Ramen,4.0,Amami,No,96,$$
+Italian,4.0,Firenze by Night Ristorante,No,933,$$
+Mexican,4.0,La Corneta Taqueria,No,1040,$
+"Beer, Wine & Spirits",4.0,Common Sage,Yes,186,$$
+Italian,4.0,Fino Ristorante & Bar,No,1070,$$
+Moroccan,4.0,Mogador Moroccan Bistro,N/A,18,$$
+Dim Sum,3.5,Hong Kong Lounge,No,1519,$$
+Mediterranean,4.5,Tuba Express Mediterranean Kebab & Gyro,Yes,136,$$
+Italian,4.0,Da Flora-A Venetian Osteria,No,289,$$$
+Cocktail Bars,4.0,True Laurel,No,129,$$
+Thai,4.0,Marnee Thai,No,1675,$$
+Russian,4.5,Silk Road,No,101,$
+American (New),4.0,Gibson,No,117,$$$
+Indian,4.5,Lotus SF,Yes,134,$$
+Korean,4.0,K-Elements BBQ,No,370,$$
+Pizza,4.0,Escape From New York Pizza,Yes,1059,$
+Bars,4.0,Last Drop Tavern,Yes,355,$$
+Mexican,4.0,Matador,Yes,462,$$
+Thai,4.0,Thai Time Restaurant,Yes,773,$
+Delis,4.0,Bite,Yes,698,$
+Breakfast & Brunch,4.0,Cafe Réveille,No,64,$$
+Bars,4.5,Pineapple Bistro & Bar,No,45,$$
+Italian,4.0,Amarena,Yes,552,$$
+Sports Bars,4.0,Overtime Sports Bar & Restaurant,No,139,$$
+Lounges,4.0,Comstock Saloon,No,899,$$
+Indian,4.5,Tara Indian Cuisine,Yes,278,$$
+Pizza,4.5,Ardiana,No,90,$$
+French,4.0,Gamine,No,882,$$
+Sushi Bars,4.0,Live Sushi Bar,No,1193,$$
+Bars,4.0,The Spot Lounge,No,543,$$
+Greek,3.5,Goood Frikin Chicken,Yes,882,$$
+Seafood,3.5,ATwater Tavern,No,264,$$
+Thai,4.0,Regent Thai Restaurant,No,504,$$
+Italian,4.0,Fior d’Italia,No,466,$$
+Japanese,4.0,Onigilly,Yes,501,$
+Cuban,4.0,Radio Habana Social Club,No,204,$$
+Bars,4.0,Sauce - Belden,No,612,$$
+Italian,4.0,Ristorante Milano,No,684,$$$
+Coffee & Tea,4.5,Higher Grounds Coffee House,No,414,$$
+Bakeries,4.0,20th Century Cafe,No,403,$$
+Desserts,4.0,Pineapples,No,411,$
+Sushi Bars,4.0,Domo,No,858,$$
+Ice Cream & Frozen Yogurt,4.0,St. Francis Fountain,No,1131,$$
+Coffee & Tea,4.0,Cafe Murano,No,281,$
+Japanese,4.0,Koo,No,1077,$$$
+Indian,4.0,Saffron Grill,Yes,486,$$
+Mexican,3.5,Papi Rico,Yes,77,$$
+Korean,4.0,Muguboka Restaurant,No,733,$$
+Coffee & Tea,4.0,Réveille Coffee Co.,No,386,$
+Bars,3.5,Palmer’s,No,235,$$
+Poke,4.5,Amitis Café,No,144,$
+Sushi Bars,4.0,Sushi Zone,No,1026,$$
+American (New),4.0,Aliment,No,528,$$
+Burgers,4.0,Calibur,Yes,332,$$
+Italian,3.5,Jackson Fillmore Trattoria,No,451,$$
+Food Court,4.0,Food Emporium,No,301,$$
+Wine Bars,3.5,Belga,No,409,$$
+Italian,3.5,Rose’s Cafe,No,904,$$
+Poke,4.5,I’a Poke,No,58,$$
+Ethiopian,4.0,Assab Eritrean Restaurant,No,659,$$
+Ethiopian,4.0,Sheba Piano Lounge,No,556,$$
+Vietnamese,4.0,DragonEats,No,325,$
+Burmese,3.5,Yamo,No,1903,$
+Cajun/Creole,4.0,Alba Ray’s,Yes,329,$$
+American (New),4.0,Villon,No,163,$$$
+American (New),3.5,Palomino,No,2489,$$
+Coffee & Tea,4.0,Beanstalk Cafe,Yes,783,$
+Japanese,4.0,Glaze Teriyaki,Yes,426,$$
+Thai,4.0,Jitlada Thai Cuisine,Yes,590,$$
+Korean,4.0,Hwaro,No,185,$$
+Mediterranean,3.5,Tawla,No,326,$$$
+Sports Bars,4.0,Bistro Gambrinus,No,289,$$
+Mexican,4.0,El Metate Restaurant,Yes,1072,$
+Pizza,4.0,Del Popolo,No,350,$$
+Cafes,4.5,Fueling Station,No,115,$
+Coffee & Tea,3.5,The Revolution Cafe,No,517,$
+Mexican,4.5,Primavera,No,210,$$
+Mediterranean,4.0,Saffron 685,Yes,590,$$
+Seafood,3.5,Bistro At The Cliff House,No,1375,$$
+Sandwiches,3.5,The Grove Fillmore,No,1481,$$
+Coffee & Tea,4.0,Le Cafe du Soleil,No,689,$$
+Sandwiches,4.5,Lunchpad,Yes,273,$$
+Thai,4.0,Nute’s,No,139,$$
+Wine Bars,4.0,Santino’s Vino,No,18,$$
+American (Traditional),3.5,The American Grilled Cheese Kitchen,Yes,130,$$
+Pop-Up Restaurants,4.0,Boogaloos - Pop Up,No,18,$$
+Korean,4.0,My Tofu House,No,1607,$$
+Delis,3.5,Wise Sons Jewish Delicatessen,No,855,$$
+Italian,2.5,Olive Garden Italian Restaurant,No,1056,$$
+Korean,3.5,Zazang Korean Noodles,No,455,$$
+Breakfast & Brunch,3.5,Cliff House Terrace Room Champagne Brunch,No,396,$$$
+Vegetarian,4.0,Ananda Fuara,Yes,1019,$$
+Irish,4.0,Johnny Foley’s,No,1198,$$
+Filipino,5.0,Turo Cafe and Grill,Yes,19,$
+Spanish,3.5,B44 Catalan Bistro,No,1009,$$$
+American (New),3.0,Momo’s,No,851,$$
+Bars,3.5,Cha Cha Cha,No,1876,$$
+Vietnamese,4.0,Mau,Yes,810,$$
+Indian,4.0,Pakwan Restaurant - 16th Street,No,1654,$
+Ramen,4.0,Ushio Ramen,No,163,$$
+French,3.5,Chouquet’s,No,577,$$
+Korean,4.0,Um Ma Son,No,364,$$
+Halal,3.5,The Halal Guys - San Francisco,Yes,661,$$
+Senegalese,3.5,Bissap Baobab,Yes,891,$$
+Middle Eastern,4.0,Maykadeh,Yes,758,$$
+Seafood,4.0,Balompie Cafe No 3,No,310,$
+Breakfast & Brunch,5.0,SOMA Eats,N/A,17,$
+American (New),4.0,Street Restaurant and Bar,No,616,$$
+American (New),3.5,Jones,No,993,$$
+Creperies,3.5,Savor Open Kitchen,Yes,854,$$
+Greek,4.0,Souvla,Yes,261,$$
+Desserts,4.0,Genki Crepes & Mini-Mart,No,2156,$
